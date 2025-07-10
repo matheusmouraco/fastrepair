@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 
 export default function ContactSection() {
   const handleWhatsAppClick = () => {
-    window.open('https://wa.me/5511999999999?text=Olá! Gostaria de agendar um reparo com a FastRepair', '_blank');
+    window.open('https://wa.me/5511985142772?text=Olá Nei! Vim do seu site FastRepair e preciso de um reparo rápido!', '_blank');
   };
 
   return (
@@ -52,7 +52,7 @@ export default function ContactSection() {
             <div className="space-y-3">
               <div className="flex items-center justify-center gap-3">
                 <Phone className="w-5 h-5" />
-                <span className="text-lg font-semibold">(11) 99999-9999</span>
+                <span className="text-lg font-semibold">(11) 98514-2772</span>
               </div>
               <div className="flex items-center justify-center gap-3">
                 <MapPin className="w-5 h-5" />

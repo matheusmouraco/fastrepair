@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 
 export default function HeroSection() {
   const handleWhatsAppClick = () => {
-    window.open('https://wa.me/5511999999999?text=Olá! Gostaria de agendar um reparo com a FastRepair', '_blank');
+    window.open('https://wa.me/5511985142772?text=Olá Nei! Vim do seu site FastRepair e preciso de um reparo rápido!', '_blank');
   };
 
   return (

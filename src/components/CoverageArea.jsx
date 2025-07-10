@@ -24,7 +24,7 @@ export default function CoverageArea() {
   ];
 
   const handleWhatsAppClick = () => {
-    window.open('https://wa.me/5511999999999?text=Olá! Gostaria de consultar disponibilidade na minha região', '_blank');
+    window.open('https://wa.me/5511985142772?text=Olá Nei! Vim do seu site FastRepair e preciso de um reparo rápido!', '_blank');
   };
 
   return (
